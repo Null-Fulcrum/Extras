@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Extras</string>
+    <string name="registration_1">Registration #1</string>
+    <string name="registration_2">Registration #2</string>
+    <string name="registration_3">Registration #3</string>
+    <string name="registration_4">Registration #4</string>
+    <string name="login">Login</string>
+    <string name="enter">enter</string>
+    <string name="name">Name</string>
+    <string name="surname">SurName</string>
+    <string name="email">Email</string>
+    <string name="registration">Return to registration</string>
+</resources>
